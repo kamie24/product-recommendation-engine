@@ -1,0 +1,34 @@
+E-Front Column Name,Description
+Investment Name,Name of the investment
+Entity Name,Name of the entity associated with an investment
+Investment Status,Status of the investment as it moves from inception to closing.
+Stage,Status of the investment from development through completion.
+Sponsor,"A principal investor in a real estate project, responsible for sourcing the investment and executing on its business plan. In many cases the Sponsor has a background in asset management and construction/development, as well as real estate finance."
+City,City of the location for the investment.
+State,State of the location for the investment.
+Investment Type,"Classification of the type of investment being offered: Limited Partner Equity, Preferred Equity, Mezzanine Debt or Senior Debt."
+Property Type,A designation by the type of real estate asset class.
+Units / Rooms / Lots,"Compositon or measurement of a space or structure that is considered a plot, tract, or parcel of land, or private dwelling (home, residence, or sleeping place by one person or more people who maintain a common household."
+SF,Square footage of the investment.
+Investment Date,Date of when the investment has gone live on EquityMultiple
+Exit Date,"Date of the completion of the payback period, for when the deal has fully realized its complete return cycle."
+Senior Debt,"Senior debt is the first level of a corporation’s liabilities which means it is paid out first, ahead of all other creditors. Senior debt is the safest form of financing for the party providing the funds. Should a corporation go bankrupt, any remaining funds, dissolved assets or other available sources of value must first repay senior debt before other creditors are able to collect."
+Sub-Debt,"An unsecured loan or bond that ranks below other, more senior loans or securities with respect to claims on assets or earnings."
+Preferred Equity,"Preferred Equity is a class of ownership that has a higher claim on the assets and earnings of a property than common equity, but is subordinate to senior debt."
+Equity,"The difference between the market value of your home and the amount you owe the lender who holds the mortgage. 1 Put simply, it's the amount of money you'd receive after paying off the mortgage if you were to sell the home."
+Total Capitalization,"The sum of all costs associated with a given project, or the sum of senior debt, subordinate debt and contributed equity."
+EM Investment,Total amount of investments collected from EM (sum of all investments from investors) to participate in the specific deal.
+Deal Leverage % @ Closing,The Senior Debt + any Subordinated Debt divided by the Total Capitalization of the Project.
+EM Last $ Exposure @ Closing,The Investment's effective basis in the deal. The amount of gross dollars the deal needs to sell for to fully repay EM's Investment.
+Pro Forma / Realized Return,"Pro Forma financial statements are financial statements prepared in advance of a planned transaction, and model the anticipated results of the transaction and business plan, with particular emphasis on the projected cash flows and net revenues."
+Gross Return Multiple,Gross potential income is the income that will be realized if a property is fully occupied and all rents are collected.
+eFront Dist Freq,A distribution waterfall is the order in which an investment vehicle makes payment distributions to investors.
+Total Return,"Total returns paint the entire picture of a real estate investment. They will factor in cash flows from the project, the appreciation, the loan paydown, and the gain on your initial investment."
+Distribution Interest Payment,Distribution Interest payment made to an EM investor.
+Distribution Principal Payment,Distribution of the original transaction amount from an investor put towards the invesment amount.
+Distribution Distribution,Payment cycle of distribution amount.
+Distribution Return of Capital,"Return of capital occurs when an investor receives a portion of their original investment that is not considered income or capital gains from the investment. Note that a return of capital reduces an investor's adjusted cost basis. Once the stock's adjusted cost basis has been reduced to zero, any subsequent return will be taxable as a capital gain."
+Projected Exit Date,Date of when the investment will be fulfilled and principal + interest has been paid to investors who participated in a given investment.
+Gross Proceeds Received To Date,The gross amount funds collected from a specific investment.
+Remaining Exposure %,
+General Partner Equity,The residual value to a General Partner after debts and liabilities have been settled with a given investment.
